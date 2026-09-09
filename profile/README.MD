@@ -19,9 +19,9 @@
 <p>
   <a href="https://usekea.com">Website</a>
   ·
-  <a href="https://github.com/meetkea/kea">GitHub</a>
+  <a href="https://x.com/meetkea">X</a>
   ·
-  <a href="https://usekea.com/support">Support Kea</a>
+  <a href="https://usekea.com/support">Support</a>
 </p>
 
 ---
