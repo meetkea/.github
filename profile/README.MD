@@ -17,7 +17,7 @@
 </p>
 
 <p>
-  <a href="https://usekea.com">Website</a>
+  <a href="https://usekea.com">Kea</a>
   ·
   <a href="https://x.com/meetkea">X</a>
   ·
