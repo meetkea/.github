@@ -1,6 +1,6 @@
 <p>
   <img
-    src="./assets/Kea.png"
+    src="./assets/Kea.jpg"
     alt="Kea — App for X on Mac"
     width="100%"
   />
